@@ -557,7 +557,7 @@ cccccccc
 .fact-area {
     position: relative;
     z-index: 1;
-    background: url(../images/bg/fact-bg.jpg) center/cover no-repeat;
+    background: url(../images/bg/fact-bg.png) center/cover no-repeat;
 }
 
 .fact-area:before {
