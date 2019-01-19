@@ -514,7 +514,7 @@ cccccccc
     z-index: 1;
     height: 100%;
     width: 100%;
-    background-color: slateblue;
+    background-color: rgb(75, 69, 69);
     opacity: 0;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
