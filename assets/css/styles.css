@@ -497,8 +497,9 @@ cccccccc
 
 .prt-item {
     position: relative;
-    border-radius: 3px;
+    border-radius: 20px;
     overflow: hidden;
+    border-style: solid;
 }
 
 .prt-item a {
