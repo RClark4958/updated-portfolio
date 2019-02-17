@@ -30,7 +30,7 @@ cccccccc
 *=============================================*/
 
 .header-area {
-    background: #000000;
+    background: #2c2153;
     position: fixed;
     left: 0;
     top: 0;
@@ -196,7 +196,7 @@ cccccccc
     z-index: -1;
     height: 100%;
     width: 100%;
-    background-color: #000000;
+    background-color: #2c2153;
     opacity: 0.9;
 }
 
@@ -569,7 +569,7 @@ cccccccc
     z-index: -1;
     height: 100%;
     width: 100%;
-    background-color: #000000;
+    background-color: #2c2153;
     opacity: 0.8;
 }
 
@@ -863,7 +863,7 @@ cccccccc
 .footer-area {
     padding: 30px 0px;
     text-align: center;
-    background-color: #000;
+    background-color: #2c2153;
 }
 
 .footer-area a.flogo img {
