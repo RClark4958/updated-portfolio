@@ -273,13 +273,13 @@ cccccccc
 }
 .social-link li a {
     display: block;
-    font-size: 15px;
+    font-size: 25px;
     color: #fff;
     margin: 0px 3px;
 }
 
 .social-link:hover li a {
-    color: #776bec;
+    color: #edecf8;
 }
 
 .social-link li a:hover {
